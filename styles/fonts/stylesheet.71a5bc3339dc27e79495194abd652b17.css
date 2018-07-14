@@ -1,0 +1,35 @@
+
+@font-face {
+	font-family: 'Gotham Pro';
+	src: url('GothamPro-Bold.woff');
+	src: local('Gotham Pro Bold'), local('GothamPro-Bold'),
+		url('GothamPro-Bold.woff') format('woff'),
+		url('GothamPro-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Gotham Pro';
+	src: url('GothamPro.woff');
+	src: local('Gotham Pro'), local('GothamPro'),
+		url('GothamPro.woff') format('woff'),
+		url('GothamPro.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Effra';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Effra'), url('Effra_Std_Rg.woff') format('woff');
+}
+@font-face {
+	font-family: 'Logo';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Viper Squadron Solid'), url('Logo.woff') format('woff'), url('Logo.otf') format('otf');
+}
